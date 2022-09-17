@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\bin\Debug\net6.0\Первая программа.exe
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\bin\Debug\net6.0\Первая программа.deps.json
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\bin\Debug\net6.0\Первая программа.runtimeconfig.json
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\bin\Debug\net6.0\Первая программа.dll
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\bin\Debug\net6.0\Первая программа.pdb
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\Первая программа.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\Первая программа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\Первая программа.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\Первая программа.AssemblyInfo.cs
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\Первая программа.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\Первая программа.dll
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\refint\Первая программа.dll
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\Первая программа.pdb
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\Первая программа.genruntimeconfig.cache
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 1. Введение в C#\Первая программа\obj\Debug\net6.0\ref\Первая программа.dll
