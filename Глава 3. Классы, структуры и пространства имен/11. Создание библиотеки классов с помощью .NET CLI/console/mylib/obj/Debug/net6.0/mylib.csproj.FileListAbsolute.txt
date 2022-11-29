@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\bin\Debug\net6.0\mylib.deps.json
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\bin\Debug\net6.0\mylib.dll
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\bin\Debug\net6.0\mylib.pdb
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\obj\Debug\net6.0\mylib.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\obj\Debug\net6.0\mylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\obj\Debug\net6.0\mylib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\obj\Debug\net6.0\mylib.AssemblyInfo.cs
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\obj\Debug\net6.0\mylib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\obj\Debug\net6.0\mylib.dll
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\obj\Debug\net6.0\refint\mylib.dll
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\obj\Debug\net6.0\mylib.pdb
+C:\Users\User\Desktop\program\Курс metanit. C#\Глава 3. Классы, структуры и пространства имен\11. Создание библиотеки классов с помощью .NET CLI\console\mylib\obj\Debug\net6.0\ref\mylib.dll

@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\helloapp\\helloapp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\helloapp\\helloapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\helloapp\\helloapp.csproj",
+        "projectName": "helloapp",
+        "projectPath": "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\helloapp\\helloapp.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\helloapp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\mylib\\mylib.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\mylib\\mylib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\mylib\\mylib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\mylib\\mylib.csproj",
+        "projectName": "mylib",
+        "projectPath": "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\mylib\\mylib.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\program\\Курс metanit. C#\\Глава 3. Классы, структуры и пространства имен\\11. Создание библиотеки классов с помощью .NET CLI\\console\\mylib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
